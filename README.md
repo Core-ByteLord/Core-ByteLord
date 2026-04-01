@@ -1,52 +1,146 @@
-<h2>Hey, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"></h2>
-<p>    
-I’m a Senior AI and Full Stack Engineer based in the UK with over 14 years of experience designing and scaling SaaS platforms across FinTech, eCommerce, and enterprise environments.
-Throughout my career, I’ve architected cloud-native, multi-tenant systems, built high-performance APIs with Node.js and TypeScript, and developed modern frontends using React and Next.js. I’ve led the migration of legacy systems into containerized microservices on AWS, improved system structure and maintainability, and worked closely with product and compliance teams to deliver secure, scalable solutions.
-I’ve also integrated AI into production systems, including LLM-powered features, retrieval-based knowledge platforms, recommendation systems, and intelligent risk analysis tools. My focus is always on building practical, reliable solutions that align with business goals and scale effectively.
+# 👋 Hi, I'm Daniel
 
-  <a href="https://www.linkedin.com/in/dragan-petrovic-bb86963ab" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-jacobs-2362b2400" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
-  <a href="https://github.com/feroxcore" target="_blank">
+  <a href="https://github.com/Core-ByteLord" target="_blank">
     <img src="https://img.shields.io/badge/Github-1F2937?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
   &nbsp;
-  <a href="mailto:dragan.petrovic.me@email.com" target="_blank">
+  <a href="mailto:daniel10032026@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </p>
 
-<h3> 🛠️ Language & Frameworks</h3>
+---
 
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/>&nbsp;
-</p>
+## 🚀 About Me
 
-###
+Senior Software Engineer with **14+ years of experience** building scalable SaaS platforms across **FinTech, eCommerce, and enterprise systems**.
 
-<h3> 📊 GitHub Status</h3>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=feroxcore&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+I specialize in designing **cloud-native architectures**, integrating **AI (LLMs, NLP, RAG)** into production systems, and delivering **high-performance applications** that create real business impact.
+
+---
+
+## 🧠 Core Expertise
+
+- 🤖 AI Systems: LLMs, NLP, RAG pipelines, AI automation  
+- ☁️ Cloud: AWS, Azure, distributed systems  
+- ⚙️ Backend: Node.js, Python, microservices architecture  
+- 🎨 Frontend: React, Next.js, modern UI systems  
+- 💳 FinTech: Stripe, Open Banking, payment systems  
+
+---
+
+## 💼 Experience
+
+### 🔹 AI Solution Engineer / Full Stack Developer — Kani  
+*Sep 2021 – Jan 2026 | London, UK*
+
+- Built reconciliation SaaS platform → **70% manual work reduction**
+- Developed fraud detection system → **38% loss reduction**
+- Migrated monolith → microservices → **30% cost reduction**
+- Integrated Stripe & Open Banking APIs (PCI-compliant)
+
+---
+
+### 🔹 Senior Full Stack Developer — OnBuy  
+*Oct 2017 – Aug 2021 | London, UK*
+
+- Built marketplace platform (1,500+ vendors, 300K+ users)
+- AI recommendation engine → **+22% AOV, +18% retention**
+- Improved performance by **25% (React + Next.js)**
+- Scaled backend to **20K concurrent users**
+
+---
+
+### 🔹 Senior Software Engineer — Vestd  
+*Jul 2014 – Sep 2017 | London, UK*
+
+- SaaS platform for **200+ enterprise clients**
+- NLP automation → **30% efficiency gain**
+- Built REST & GraphQL APIs
+
+---
+
+### 🔹 Full Stack Developer — Epos Now  
+*Jun 2010 – Jun 2014 | Norwich, UK*
+
+- Scaled product from **2K → 40K users**
+- Built backend systems (PHP, MySQL)
+- Improved engagement by **25%**
+
+---
+
+## 🏆 Key Achievements
+
+- 🚀 Production LLM integration in SaaS platforms  
+- 📊 Retrieval-Augmented Generation (RAG) systems  
+- 🔍 AI fraud detection & risk scoring  
+- 📈 Predictive analytics for eCommerce  
+- 💬 Intelligent chat & automation systems  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>&nbsp;
+<img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php"/>&nbsp;
+<img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql"/>&nbsp;
+
+### Frontend
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/>&nbsp;
+<img src="https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js"/>&nbsp;
+<img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular"/>&nbsp;
+
+### Backend
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>&nbsp;
+<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express"/>&nbsp;
+<img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django"/>&nbsp;
+<img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel"/>&nbsp;
+
+### AI / ML
+<img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai"/>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow"/>&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch"/>&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn"/>&nbsp;
+
+### Cloud & DevOps
+<img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws"/>&nbsp;
+<img src="https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes"/>&nbsp;
+<img src="https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform"/>&nbsp;
+
+### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis"/>&nbsp;
+
+---
+
+## 🎓 Education
+
+**BSc Computer Science**  
+University College London  
+
+---
+
+## 🎯 Focus
+
+- Building **AI-native SaaS products**
+- Designing **scalable LLM systems**
+- Automating complex workflows
+
+---
+
+## 🤝 Let's Connect
+
+Always open to interesting projects, collaborations, and AI-driven opportunities 🚀
