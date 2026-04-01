@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Github-1F2937?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
   &nbsp;
-  <a href="mailto:daniel10032026@outlook.com" target="_blank">
+  <a href="mailto:lc044650@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </p>
