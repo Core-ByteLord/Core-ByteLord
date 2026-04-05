@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Daniel
+---
 
-<p align="left">
+<h1 align="center">👋Hi, there!</h1>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/daniel-jacobs-2362b2400" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
@@ -18,118 +20,66 @@
 
 ## 🚀 About Me
 
-Senior Software Engineer with **14+ years of experience** building scalable SaaS platforms across **FinTech, eCommerce, and enterprise systems**.
-
-I specialize in designing **cloud-native architectures**, integrating **AI (LLMs, NLP, RAG)** into production systems, and delivering **high-performance applications** that create real business impact.
-
----
-
-## 🧠 Core Expertise
-
-- 🤖 AI Systems: LLMs, NLP, RAG pipelines, AI automation  
-- ☁️ Cloud: AWS, Azure, distributed systems  
-- ⚙️ Backend: Node.js, Python, microservices architecture  
-- 🎨 Frontend: React, Next.js, modern UI systems  
-- 💳 FinTech: Stripe, Open Banking, payment systems  
-
----
-
-## 💼 Experience
-
-### 🔹 AI Solution Engineer / Full Stack Developer — Kani  
-*Sep 2021 – Jan 2026 | London, UK*
-
-- Built reconciliation SaaS platform → **70% manual work reduction**
-- Developed fraud detection system → **38% loss reduction**
-- Migrated monolith → microservices → **30% cost reduction**
-- Integrated Stripe & Open Banking APIs (PCI-compliant)
-
----
-
-### 🔹 Senior Full Stack Developer — OnBuy  
-*Oct 2017 – Aug 2021 | London, UK*
-
-- Built marketplace platform (1,500+ vendors, 300K+ users)
-- AI recommendation engine → **+22% AOV, +18% retention**
-- Improved performance by **25% (React + Next.js)**
-- Scaled backend to **20K concurrent users**
-
----
-
-### 🔹 Senior Software Engineer — Vestd  
-*Jul 2014 – Sep 2017 | London, UK*
-
-- SaaS platform for **200+ enterprise clients**
-- NLP automation → **30% efficiency gain**
-- Built REST & GraphQL APIs
-
----
-
-### 🔹 Full Stack Developer — Epos Now  
-*Jun 2010 – Jun 2014 | Norwich, UK*
-
-- Scaled product from **2K → 40K users**
-- Built backend systems (PHP, MySQL)
-- Improved engagement by **25%**
-
----
-
-## 🏆 Key Achievements
-
-- 🚀 Production LLM integration in SaaS platforms  
-- 📊 Retrieval-Augmented Generation (RAG) systems  
-- 🔍 AI fraud detection & risk scoring  
-- 📈 Predictive analytics for eCommerce  
-- 💬 Intelligent chat & automation systems  
+Senior Software Engineer with 10+ years of experience designing and delivering scalable, production-grade systems across AI, backend, and full-stack domains. <br><br>
+Specialized in LLM-driven architectures, including RAG (Retrieval-Augmented Generation), real-time data pipelines, and distributed systems, with deep expertise in TypeScript, React, Next.js, and Node.js. <br><br>
+Proven ability to build low-latency, high-reliability platforms that transform complex data into intelligent, user-facing applications in remote, fast-paced environments.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>&nbsp;
-<img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php"/>&nbsp;
-<img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql"/>&nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vuejs" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c#" height="60" alt="c# logo"  />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+</div>
 
-### Frontend
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/>&nbsp;
-<img src="https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js"/>&nbsp;
-<img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular"/>&nbsp;
-
-### Backend
-<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>&nbsp;
-<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express"/>&nbsp;
-<img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django"/>&nbsp;
-<img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel"/>&nbsp;
-
-### AI / ML
-<img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai"/>&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow"/>&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch"/>&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn"/>&nbsp;
-
-### Cloud & DevOps
-<img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws"/>&nbsp;
-<img src="https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure"/>&nbsp;
-<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes"/>&nbsp;
-<img src="https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform"/>&nbsp;
-
-### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb"/>&nbsp;
-<img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis"/>&nbsp;
-
----
-
-## 🎓 Education
-
-**BSc Computer Science**  
-University College London  
+###
 
 ---
 
