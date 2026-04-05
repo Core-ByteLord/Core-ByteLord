@@ -52,6 +52,9 @@ Proven ability to build low-latency, high-reliability platforms that transform c
   <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
@@ -60,9 +63,6 @@ Proven ability to build low-latency, high-reliability platforms that transform c
   <img src="https://skillicons.dev/icons?i=c#" height="60" alt="c# logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
