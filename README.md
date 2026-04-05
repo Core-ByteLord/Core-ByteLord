@@ -58,6 +58,8 @@ Proven ability to build low-latency, high-reliability platforms that transform c
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c#" height="60" alt="c# logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai logo"  />
@@ -71,8 +73,6 @@ Proven ability to build low-latency, high-reliability platforms that transform c
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
