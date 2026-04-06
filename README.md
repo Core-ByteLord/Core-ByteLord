@@ -2,20 +2,6 @@
 
 <h1 align="center">👋Hi, there!</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-jacobs-2362b2400" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Core-ByteLord" target="_blank">
-    <img src="https://img.shields.io/badge/Github-1F2937?style=for-the-badge&logo=github&logoColor=white" height="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:lc044650@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -83,14 +69,19 @@ Proven ability to build low-latency, high-reliability platforms that transform c
 
 ---
 
-## 🎯 Focus
-
-- Building **AI-native SaaS products**
-- Designing **scalable LLM systems**
-- Automating complex workflows
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Core-ByteLord&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Focus
 
-Always open to interesting projects, collaborations, and AI-driven opportunities 🚀
+- Building **AI-native SaaS products**
+- Automating complex workflows
+- Design and ship **AI-powered products (LLMs, NLP, RAG)**
+- Build **scalable backend systems & microservices**
+- Develop **real-time and event-driven architectures**
+- Optimize **systems for performance, cost, and reliability**
+
+---
